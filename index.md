@@ -1,3 +1,0 @@
-<html>
-Class Full
-</html>
